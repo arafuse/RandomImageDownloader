@@ -1,0 +1,10 @@
+Filename formats:
+
+Nikon D1 DSC_0000.JPG
+Canon EOS SBCS0000.JPG
+Nikon DSCN0001
+Canon G2 IMG_0001
+KodakDC DCP_0001
+Fuji Finepix DSCF0001
+Minolta PICT0000.JPG
+Mavica  MVC-0000.JPG
